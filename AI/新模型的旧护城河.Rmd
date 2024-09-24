@@ -1,0 +1,37 @@
+---
+title: "comments for <Old moats for new Models> from NBER working paper"
+author: "Wei Hu"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Abstract
+
+借鉴创新经济学的见解，讨论了塑造genAI进步的竞争环境。作者将两个概念作为本文的核心，分别是可占有性和互补性资产。其中，可占有性的意思是企业能够控制它们创行活动产生的知识；互补性资产是指：新企业进入需要获得的特定资产，而这一特定资产又被在位者企业牢牢控制。
+
+本文的论点是：在位者企业对互补性资产的控制将会导致集中的市场结构。（这一现象在之前的技术革命中就出现过）
+
+针对出现的这一问题，作者提出了政策建议，另外，作者还认为有些大型的“流氓”公司可能改变这一布局。文中后续分析了meta开源Llama的行为。作者的政策建议主要是让大家能够便捷地接触到大模型的互补资产，作者在文中根据大模型的技术特点总结出六大互补资产。
+
+
+## 简介
+In such moments, the accumulation of konwledge about how humans can manipulate our world coalesces into novel technologies with the poential for great jumps in productivity.
+
+自从chatGPT分布以来，人们对genAI的关注大幅上升。genAI不仅有在多领域应用的潜力，并且性能也不断提升（作者列举了一系列的基准测试结果）。虽然生成式AI具有如此大的潜力，但是人们并不清楚基础genAI技术的供给情况，以及有多大的可能被少数几家企业控制。**即引出了本文要讨论和分析的问题**
+
+但是这一问题又很重要，对于监管者、企业家、投资者、管理者们来说，他们需要了解到行业的创新与竞争情况，同时也是制定政策的必要前提。
+
+## 大模型的技术特点
+
+### 生成式AI
+
+### 大语言模型
+
+
+## 预测大模型竞争动态的框架
+
+## 对于公共政策的启示
